@@ -13,7 +13,7 @@
 * click the 'fork' button
 
 2. **Clone** your version of the repo to your pc jjjjjjjjjjjjjjjjjj
-
+THIS IS BRANCH 2.0
 * Command line: `git clone <repo-name>`
 * Or, chose "clone repository" from the "source Control" tab in VSCode (cntl+shift+g)
 * As an alternative to 1 and 2, simply clone a copy of my repo. If you want to publish the changes to your github account, you'll have to create an empty repo on github.com, and update the 'remote' address of this repo to point to that one
